@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SyedaZainabNaqvi
+- 👋 Hi, I’m @ZainabNaqvi
 - 👀 I’m interested in learning different languages
 - 🌱 I’m currently practicing by making project on html css javascript
 - 💞️ I’m looking to collaborate on making projects
